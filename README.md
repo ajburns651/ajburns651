@@ -1,8 +1,6 @@
-# Hi, I'm ajburns651
-
-A high school student learning in sparetime 
-
 ## About Me
+
+- 🎒 Currently studying at La Costa Canyon High School
 
 - 🌱 I’m currently learning python, javascript, and game development
 
