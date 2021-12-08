@@ -6,7 +6,7 @@
 
 - 📝 I regulary post my school notes at ajburns651/School-Notes
 
-- 📫 You will be able to reach me in the future at ___________
+- 📫 You can reach me at (haven't set up forwarding address yet)
 
 ## Operating System & Tools
 
