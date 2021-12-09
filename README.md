@@ -6,7 +6,7 @@
 
 - 📝 I regulary post my school notes at ajburns651/School-Notes
 
-- 📫 You can reach me at Ajburns651#1850 or emailaddress
+- 📫 You can reach me at ajburns651@protonmail.com or on discord at Ajburns651#1850
 
 ## Operating System & Tools
 
