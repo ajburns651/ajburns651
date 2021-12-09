@@ -2,11 +2,11 @@
 
 - 🎒 Currently studying at La Costa Canyon High School
 
-- 🌱 I’m currently learning python, javascript, and game development
+- 🌱 Learning python, javascript, and game development
 
 - 📝 I regulary post my school notes at ajburns651/School-Notes
 
-- 📫 You can reach me at (haven't set up forwarding address yet)
+- 📫 You can reach me at Ajburns651#1850 or emailaddress
 
 ## Operating System & Tools
 
