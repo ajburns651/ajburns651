@@ -2,14 +2,17 @@
 
 - 🎒 Currently studying at La Costa Canyon High School
 
+- 🎓 Attending UCSD for Aerospace Engineering in the Fall of 2022
+
 - 🌱 Learning python, javascript, and game development
 
 - 📝 I regulary post my school notes at ajburns651/School-Notes
 
-- 📫 You can reach me at ajburns651@protonmail.com or on discord at Ajburns651#1850
+- 📫 You can reach me at ajburns651@gmail.com
 
 ## Operating System & Tools
 
+- Windows
 - Mac OS
 - Linux - Arch/Xmonad
 - VSCode
