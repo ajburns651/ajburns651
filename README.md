@@ -1,8 +1,8 @@
 ## About Me
 
-- 🎒 Currently studying at La Costa Canyon High School
+- 🎓 Previously graduated La Costa Canyon High School in 2022
 
-- 🎓 Attending UCSD for Aerospace Engineering in the Fall of 2022
+- 🎒 Currently studying Aerospace Engineering at UC San Diego
 
 - 🌱 Learning python, javascript, and game development
 
